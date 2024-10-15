@@ -1,7 +1,7 @@
 name = "ExpressionExplorer"
-uuid = "21656369-7473-754a-2065-74616d696c43"
+uuid = "27279169-5e6b-450a-a298-ff8b56ddcd23"
 license = "MIT"
-authors = ["Paul Berg <paul@plutojl.org>", "Fons van der Plas <fons@plutojl.org>"]
+authors = ["Paul Berg <paul@plutojl.org>", "Fons van der Plas <fons@plutojl.org>", "Stephan Sahm <stephan.sahm@jolin.io>"]
 version = "1.0.401"
 
 [compat]
